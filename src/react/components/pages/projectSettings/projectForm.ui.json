@@ -1,0 +1,20 @@
+{
+    "securityToken": {
+        "ui:field": "securityToken"
+    },
+    "useSecurityToken": {
+        "ui:widget": "checkbox"
+    },
+    "description": {
+        "ui:widget": "textarea"
+    },
+    "sourceConnection": {
+        "ui:field": "sourceConnection"
+    },
+    "targetConnection": {
+        "ui:field": "targetConnection"
+    },
+    "tags": {
+        "ui:field": "tagsInput"
+    }
+}
